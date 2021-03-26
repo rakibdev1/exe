@@ -1,0 +1,1025 @@
+
+@media(min-width:1200px) and (max-width:1399px){
+/*======navbar section starts here========*/
+    .nav-link {
+        line-height: 10px;
+        margin-left: 30px;
+        font-size: 12px;
+        padding-top: 15px;
+    }
+    .cart p {
+        padding-top: 30px;
+        margin-left: 30px;
+        font-size: 13px;
+    }
+    .fa {
+        padding-top: 30px;
+        color: rosybrown;
+    }
+    /*======navbar section endss here========*/
+    /*======banner section starts here=======*/
+    .banner-content h1 {
+        font-size: 50px;
+    }
+    .banner-content h2 {
+        font-size: 40px;
+    }
+    .banner-overlay {
+        top: 0;
+        padding-top: 180px;
+    }
+    .banner-content p {
+        font-size: 15px;
+        padding: 0 300px 0;
+        position: relative;
+
+    }
+    .banner-content a {
+        padding: 10px 20px;
+        border: 1px solid #fff;
+        margin: 0 6px;
+        border-radius: 4px;
+        position: relative;
+        top: 5px;
+        font-size: 11px;
+    }
+    .carousel-control-prev-icon {
+        background-image: none
+    }
+    .carousel-control-next-icon {
+        background-image: none;
+    }
+    /*======banner section ends here=======*/
+    /*====about section starts here=====*/
+    .service-content {
+        margin-bottom: 50px;
+    }
+    .service-content i {
+        border-radius: 50%;
+        line-height: 15px; 
+    }
+    .service-content p::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*=====about section starts here=======*/
+    /*======portfolio section section starts here========*/
+
+    .portfolio-content p {
+        padding: 0 255px 30px;
+    }
+    /*=======portfolio section ends here=======*/
+    /*=====gal section starts here======*/
+    .gal-button {
+        padding-bottom: 40px;
+    }
+    /*======gal section ends heree=====*/
+    /*=====about us section starts here======*/
+    #about-us {
+        padding-bottom: 25px;
+    }
+    .about-us-content p {
+        padding: 0 255px 74px;
+    }
+    .about-count h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-main{
+        margin-bottom: 130px;
+    }
+    .counter-about p{
+        padding: 0;
+    }
+    .counter-about p::after {
+        top: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*======about us section ends here=====*/
+     /*=====choose content section starts here======*/
+
+     .choose-content p {
+        padding: 0 255px;
+    }
+    .accordion-button {
+        padding: 2rem 1.25rem;
+    }
+    .testimonial-main {
+        margin-bottom: 0;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin-top: 50px;
+    }
+    .testimonial-margin{
+        margin-top: 9px;
+    }
+    .testimonial-img img {
+        padding-top: 15px;
+    }
+    .testimonial-content h4{
+        font-size: 20px;
+    }
+    .testimonial-content p{
+        font-size: 14px
+    }
+    
+    /*======choose content section ends here=====*/
+    /*=====blog section starts here=======*/
+    .blog-inner-content span {
+        line-height: 35px;
+    }
+    .blog-content p {
+        padding: 0 230px 70px;
+    }
+    .blog-inner-content a::after {
+        top: 30px;
+    }
+    /*=====blog section ends here=======*/
+    /*=====many themes option starts here======*/
+       .inner {
+        padding-top: 105px;
+    }
+    .themes-main-content p {
+        padding: 0 211px;
+    } 
+    .themes-img{
+        padding-top: 30px;
+    }
+    .theme-inner-content h4{
+        font-size: 20px;
+    }
+    .theme-inner-content p{
+        font-size: 14px;
+    }
+    .theme-inner-logo i {
+        height: 70px;
+        width: 70px;
+        font-size: 25px;
+        line-height: 13px;
+    }
+    /*=====many themes option ends here======*/
+}
+
+@media(min-width:992px) and (max-width:1199.98px){
+    /*======navbar section starts here========*/
+
+      .nav-link {
+        line-height: 10px;
+        margin-left: 15px;
+        font-size: 10px;
+        padding-top: 15px;
+    }
+    .cart p {
+        padding-top: 30px;
+        margin-left: 30px;
+        font-size: 13px;
+    }
+    .fa {
+        padding-top: 30px;
+        color: rosybrown;
+    }
+    /*======navbar section endss here========*/
+     /*======banner section starts here=======*/
+     .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+    }
+    .banner-overlay {
+        top: 0;
+        padding-top: 180px;
+    }
+    .banner-content p {
+        font-size: 15px;
+        padding: 0 0 0;
+        position: relative;
+        top: -8px;
+    }
+    .banner-content a {
+        padding: 10px 20px;
+        border: 1px solid #fff;
+        margin: 0 6px;
+        border-radius: 4px;
+        position: relative;
+        top: -10px;
+        font-size: 11px;
+    }
+    .carousel-control-prev-icon {
+        background-image: none
+    }
+    .carousel-control-next-icon {
+        background-image: none;
+    }
+    /*======banner section ends here=======*/
+    /*====about section starts here=====*/
+    .service-content {
+        margin-bottom: 50px;
+    }
+    .service-content i {
+        border-radius: 50%;
+        line-height: 15px; 
+    }
+    .service-content p::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*=====about section starts here=======*/
+    /*======portfolio section section starts here========*/
+    .portfolio-content p {
+        padding: 0 165px 30px;
+    }
+    /*=======portfolio section ends here=======*/
+    /*=====gal section starts here======*/
+
+    .gal-button {
+        padding-bottom: 40px;
+    }
+    /*======gal section ends heree=====*/
+    /*=====about us section starts here======*/
+    #about-us {
+        padding-bottom: 25px;
+    }
+    .about-us-content p {
+        padding: 0 170px 74px;
+    }
+    .about-count h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-main{
+        margin-bottom: 130px;
+    }
+    .counter-about p{
+        padding: 0 42px 0;
+    }
+    .counter-about p::after {
+        top: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*======about us section ends here=====*/
+     /*=====choose content section starts here======*/
+
+    .choose-content p {
+        padding: 0 148px;
+    }
+    .accordion-button {
+        padding: 2rem 1.25rem;
+    }
+    .testimonial-main {
+        margin-bottom: 0;
+        padding-top: 20px;
+        padding-bottom: 0;
+        margin-top: 50px;
+    }
+    .testimonial-margin{
+        margin-top: 50px;
+    }
+    .testimonial-img img {
+        padding-top: 30px;
+    }
+    .testimonial-content h4{
+        font-size: 20px;
+    }
+    .testimonial-content p{
+        font-size: 14px
+    }
+    
+    /*======choose content section ends here=====*/
+     /*=====blog post section starts here======*/
+     .blog-main {
+        padding-bottom: 70px;
+        padding-top: 60px;
+    }
+    
+    .blog-content p {
+        padding: 0 118px
+    }
+    .blog-inner-content span {
+        line-height: 0;
+    }
+    .blog-inner-content h4{
+        font-size: 19px;
+    }
+    .blog-inner-content p {
+        padding:0;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .blog-inner-content a::after {
+        top: 30px;
+    }
+    .blog-img-overlay a {
+        line-height: 185px;
+    }
+    
+    /*======blog post section ends here=====*/
+    /*=====many themes option starts here======*/
+    .inner {
+        padding-top: 105px;
+    }
+    .themes-main-content {
+        padding-top: 75px;
+        padding-bottom: 35px;
+    }
+    .themes-main-content p {
+        padding: 0 166px;
+    }
+
+    .themes-img{
+        padding-top: 30px;
+    }
+    .theme-inner-content h4{
+        font-size: 20px;
+    }
+    .theme-inner-content p{
+        font-size: 14px;
+    }
+    .theme-inner-logo i {
+        height: 80px;
+        width: 80px;
+        font-size: 30px;
+        line-height: 20px;
+    }
+    .footer-content input {
+        padding: 8px 0px 8px 8px;
+    }
+
+    /*=====many themes option ends here======*/
+    
+
+}
+@media(min-width:768px) and (max-width:991.99px){
+    /*======navbar section starts here========*/
+
+    .nav-link {
+        line-height: 10px;
+        margin-left: 0;
+        font-size: 10px;
+        padding-top: 35px;
+    }
+    .cart{
+        padding-top: 10px;
+    }
+    .cart p {
+        padding-top: 30px;
+        margin-left: 30px;
+        font-size: 13px;
+    }
+    .fa {
+        padding-top: 30px;
+        color: rosybrown;
+    }
+    /*======navbar section endss here========*/
+    /*======banner section starts here=======*/
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+    }
+    .banner-overlay {
+        top:0;
+        padding-top: 100px;
+    }
+    .banner-content p {
+        font-size: 15px;
+        padding: 0 0 0;
+        position: relative;
+        top: -8px;
+    }
+    .banner-content a {
+        padding: 10px 20px;
+        border: 1px solid #fff;
+        margin: 0 6px;
+        border-radius: 4px;
+        position: relative;
+        top: -10px;
+        font-size: 11px;
+    }
+    .carousel-control-prev-icon {
+        background-image: none
+    }
+    .carousel-control-next-icon {
+        background-image: none;
+    }
+    /*======banner section ends here=======*/
+    
+   
+    /*=====business section starts here=======*/
+    .business-content {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .business-content p::after {
+        bottom: -50px;
+    }
+    .business-content h2 {
+        font-size: 20px;
+    }
+    .business-content p {
+        font-size: 12px;
+    }  
+    /*======business section ends here======*/
+    
+    /*====about section starts here=====*/
+    .service-content {
+        margin-bottom: 50px;
+    }
+    .service-content i {
+        border-radius: 50%;
+        line-height: 15px;
+       
+    }
+    .service-content p::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*====about section ends here=====*/
+    /*======portfolio section section starts here========*/
+    .portfolio-content p {
+        padding: 0 50px 30px;
+    }
+    .service-menu ul li{
+        margin-bottom: 20px;
+    }
+    /*=======portfolio section ends hee=======*/
+    /*=====gal section starts here======*/
+
+    .gal-button {
+        padding-bottom: 40px;
+    }
+    /*======gal section ends heree=====*/
+    /*=====about us section starts here======*/
+    .about-us-content p {
+        padding: 0 60px 50px;
+    }
+    .about-count h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-main{
+        margin-bottom: 130px;
+    }
+    .counter-about p::after {
+        top: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /*======about us section ends here=====*/
+    /*=====choose content section starts here======*/
+
+    .choose-content p {
+        padding: 0 50px;
+    }
+    .accordion-button {
+        padding: 2rem 1.25rem;
+    }
+    .testimonial-main {
+        margin-bottom: 0;
+        padding-top: 20px;
+        padding-bottom: 0;
+        margin-top: 50px;
+    }
+    .testimonial-margin{
+        margin-top: 50px;
+    }
+    .testimonial-img img {
+        padding-top: 30px;
+    }
+    .testimonial-content h4{
+        font-size: 20px;
+    }
+    .testimonial-content p{
+        font-size: 14px
+    }  
+    /*======choose content section ends here=====*/
+    /*===========*/
+    /*=====blog post section starts here======*/
+    .blog-main {
+        padding-bottom: 70px;
+        padding-top: 60px;
+    }
+    
+    .blog-content p {
+        padding: 0
+    }
+    .blog-inner-content span {
+        line-height: 0;
+    }
+    .blog-inner-content h4{
+        font-size: 19px;
+    }
+    .blog-inner-content p {
+        padding:0;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .blog-inner-content a::after {
+        top: 30px;
+    }
+    .blog-img-overlay a {
+        line-height: 185px;
+    }  
+    /*======blog post section ends here=====*/
+    /*=====many themes option starts here======*/
+    .inner {
+        padding-top: 0px;
+    }
+    .themes-main-content p {
+        padding: 0 50px;
+    }
+   
+    .themes-img{
+        padding-top: 30px;
+    }
+    .theme-inner-content h4{
+        font-size: 20px;
+    }
+    .theme-inner-content p{
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .theme-inner-content {
+        margin-bottom: 30px;
+    }
+    .theme-inner-logo i {
+        height: 55px;
+        width: 55px;
+        font-size: 20px;
+        line-height: 0px;
+    }
+    /*=====many themes option ends here======*/
+    /*=====footer section starts here======*/
+    .footer-third-content{
+        padding-top: 20px;
+    }
+    .footer-last-content{
+        padding-top: 20px;
+    }
+    /*=====footer section ends here======*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767.98px){
+
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+    }
+    .banner-overlay {
+        top: 0;   
+    }
+    .banner-overlay {
+        padding-top: 30px;
+    }
+    .banner-content p {
+        font-size: 15px;
+        padding: 0 0 0;
+        position: relative;
+        top: -8px;
+    }
+    .banner-content a {
+        padding: 10px 20px;
+        border: 1px solid #fff;
+        margin: 0 6px;
+        border-radius: 4px;
+        position: relative;
+        top: -10px;
+        font-size: 11px;
+    }
+    .carousel-control-prev-icon {
+        background-image: none
+    }
+    .carousel-control-next-icon {
+        background-image: none;
+    }
+    /*=====business section starts here=======*/
+    .business-content {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .business-content p::after {
+        bottom: -50px;
+    }
+
+    .business-content h2 {
+        font-size: 15px;
+    }
+    .business-content p {
+        font-size: 8px;
+    }  
+    /*======business section ends here======*/
+    /*=====portfolio section starts here=======*/
+    .portfolio-content p {
+        padding: 0 0px 5px;
+    }
+     .portfolio-content ol, ul {
+        padding-left: 0rem;
+    }
+    .service-menu ul li{
+        margin-bottom: 15px;
+    }
+    .service-menu ul li a {
+        padding: 5px 20px;
+    }
+    .service-content {
+        margin-bottom: 55px;
+    }
+    .service-content p::after {
+        position: absolute;
+        content: '';
+        height: 3px;
+        width: 70px;
+        background-color: #000;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        ;
+    }
+    .service-main {
+        padding-bottom: 0px;
+    }
+    .portfolio-content h3 {
+        padding-top: 26px;
+    }
+    /*=====gal section starts here=====*/
+    .gal-button {
+        padding-bottom: 40px; 
+    }
+    /*=====gal section endss here=====*/
+
+
+
+     /*=====about us section starts here=======*/
+
+     .about-count h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-us-content p {
+        padding: 10px 30px 60px;
+        color: #626262;
+    }
+    .counter-about p {
+        padding-bottom: 95px;
+    }
+
+    .counter-about p::after {
+        top: 80px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #about-us {
+        padding-bottom: 0px;
+    }
+    /*======about us section ends here======*/
+
+     /*=====choose us secttion starts here=======*/
+     #choice {
+        padding-bottom: 0px;
+    }
+    .choose-content p {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        position: relative;
+        padding: 0 0px;
+    }
+    .choose-content p::after {
+        top: 115px;
+        left: 50%;
+    }
+    /*=====choose us section ends herre=======*/
+    /*=====testimonial section starts here=======*/
+    .testimonial-main {
+        margin-top: 15px;
+    }
+    .testimonial-content h4{
+        text-align: center;
+    }
+    /*======testimonial section ends here======*/
+
+    /*======latest blog post section  starts here======*/
+
+    .blog-content p {
+        padding: 0 0px 20px;
+    }
+    .blog-content p::after {
+        top: 110px;
+    }
+    .blog-inner-content p {
+        padding: 0px 0px 0 0;
+    }
+    .blog-inner-content a::after {
+        position:unset;
+    }
+    .blog-main {
+        padding-bottom: 13px;
+    }
+    .blog-img-overlay i {
+      
+        padding-top: 12px;
+        margin-left: 10px;
+        margin-top: 50%;
+    }
+    /*======latest blog post sectin ends here======*/
+    /*======themes option section starts heere======*/
+    .themes-main-content p {
+        padding: 0 0 0;
+    }
+    .themes-main-content p::after {
+        top: 115px;
+        left: 50%;
+    }
+    .theme-inner-content {
+        text-align: left;
+    }
+    /*======themes option section ends here======*/
+    /*=====footer section starts here=======*/
+    .footer-vedio-overlay {
+        height: 100%;
+    }
+
+    .footer-vedio-overlay i {
+        margin-top: 50%;
+    }
+    .footer-vedio1-overlay i{
+        background-color: #707070;
+        height:30px;
+        width: 30px;
+        border-radius: 50%;
+        padding-top: 35px;
+        line-height: 200px;
+        color:#fff
+    }
+    
+
+
+
+
+}
+
+
+@media(max-width:575.98px){
+
+
+
+
+    /*==============*/
+    .navbar-nav .nav-link {
+        padding: 0;
+    }
+    .navbar-nav .nav-link a {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    /*==============*/
+
+    .banner-content h1 {
+        font-size: 22px;
+    }
+    .banner-content h2 {
+        font-size: 20px;
+    }
+    .banner-overlay {
+        top: 0;   
+    }
+    .banner-overlay {
+        padding-top: 30px;
+    }
+    .banner-content p {
+        font-size: 10px;
+        padding: 0 0 0;
+        position: relative;
+        top: -8px;
+    }
+    .banner-content a {
+        padding: 2px 5px;
+        border: 1px solid #fff;
+        margin: 0 1px;
+        border-radius: 4px;
+        position: relative;
+        top: -20px;
+        font-size: 8px;
+    }
+    .carousel-control-prev-icon {
+        background-image: none
+    }
+    .carousel-control-next-icon {
+        background-image: none;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        display: none;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        display: none;
+    }
+    /*=====business section starts here=======*/
+    .business-content {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .business-content p::after {
+        bottom: -50px;
+    }
+
+    .business-content h2 {
+        font-size: 20px;
+    }
+    .business-content p {
+        font-size: 11px;
+    }
+
+       
+    /*======business section ends here======*/
+    /*=====portfolio section starts here=======*/
+    .portfolio-content p {
+        padding: 0 0px 5px;
+    }
+    .portfolio-content ol, ul {
+        padding-left: 0rem;
+    }
+    .service-menu ul li {
+        display: inline-block;
+        background-color: #fafafa;
+        line-height: 30px;
+        transition: 3s;
+        margin-bottom: 15px;
+    }
+    .service-menu ul li a {
+        padding: 5px 12px;
+    }
+    .service-content {
+        margin-bottom: 55px;
+    }
+    .service-content p::after {
+        position: absolute;
+        content: '';
+        height: 3px;
+        width: 70px;
+        background-color: #000;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        ;
+    }
+     /*=====gallery section starts heere=======*/
+
+     .gal-button{
+        padding-bottom: 40px;
+    }
+    /*=====gallery section starts heere=======*/
+    /*======portfolio section ends here======*/
+
+    /*=====about us section starts here=======*/
+
+    .about-count h3::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-us-content p {
+        padding: 11px 0px 60px;
+        color: #626262;
+    }
+    .counter-about p {
+        padding-bottom: 95px;
+    }
+
+    .counter-about p::after {
+        top: 65px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #about-us {
+        padding-bottom: 0px;
+    }
+    /*======about us section ends here======*/
+    /*=====choose us secttion starts here=======*/
+    #choice {
+        padding-bottom: 0px;
+    }
+    .choose-content p {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        position: relative;
+        padding: 0 0px;
+    }
+    .choose-content p::after {
+        top: 115px;
+        left: 50%;
+    }
+    /*=====choose us section ends herre=======*/
+    /*=====testimonial section starts here=======*/
+    .testimonial-main {
+        margin-top: 15px;
+    }
+    .testimonial-content{
+        text-align: center;
+    }
+    /*======testimonial section ends here======*/
+    /*======latest blog post section  starts here======*/
+
+    .blog-content p {
+        padding: 0 0px 20px;
+    }
+    .blog-content p::after {
+        top: 110px;
+    }
+    .blog-inner-content p {
+        padding: 0px 0px 0 0;
+    }
+    .blog-inner-content a::after {
+        position:unset;
+    }
+    .blog-main {
+        padding-bottom: 13px;
+    }
+    .blog-img-overlay i {
+      
+        padding-top: 12px;
+        margin-left: 10px;
+        margin-top: 50%;
+    }
+    /*======latest blog post sectin ends here======*/
+    /*======themes option section starts heere======*/
+    .themes-main-content p {
+        padding: 0 0 0;
+    }
+    .themes-main-content p::after {
+        top: 115px;
+        left: 50%;
+    }
+    .theme-inner-content {
+        text-align: center;
+    }
+    /*======themes option section ends here======*/
+    /*=====footer section starts here=======*/
+
+    .footer-vedio-overlay {
+        height: 100%;
+    }
+
+    .footer-vedio-overlay i {
+        margin-top: 50%;
+    }
+
+    .footer-vedio1-overlay i{
+        background-color: #707070;
+        height:30px;
+        width: 30px;
+        border-radius: 50%;
+        padding-top: 35px;
+        line-height: 200px;
+        color:#fff
+    }
+    .footer-vedio-content p{
+        margin-bottom: 0;
+    }
+    .uppish {
+        right: 20px;
+    }
+    /*======footer section ends here======*/
+   
+    /*============*/
+    /*============*/
+   
+}
